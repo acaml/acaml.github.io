@@ -1,0 +1,17 @@
+title: 'Jules Massart'
+description: "Personal page"
+baseurl: ""
+url: "https://acaml.github.io"
+
+header_pages:
+  - index.md
+  - cv.md
+  - contact.md
+
+style: light
+
+footer: ''
+
+# Build settings
+markdown: kramdown
+remote_theme: b2a3e8/jekyll-theme-console
