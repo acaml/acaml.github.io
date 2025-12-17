@@ -25,7 +25,7 @@ Fifth-year Computer Science engineering student specializing in formal methods a
 Participated in research-oriented coursework and Capture The Flag competitions
 
 **Lycée Jean Perrin** — Lyon, France | 2020 – 2023
-*Intensive two-year preparatory program for competitive entrance exams to France's top engineering schools*
+*Intensive two-year preparatory program for competitive entrance exams to France's engineering schools*
 *Courses* : Mathematics, Physics, Computer Science, English
 
 ---
@@ -34,9 +34,9 @@ Participated in research-oriented coursework and Capture The Flag competitions
 
 **CEA Frama-C** — Paris, France | Apr 2025 – Aug 2025
 *Research Intern at Frama-C, a platform for static analysis of C programs* 
-Developed a live abstract debugger in OCaml for EVA, Frama-C's abstract interpretation plugin, to prove the absence of runtime errors
-Researched partial orders and iteration strategies for control-flow graphs to compute fixpoints over independent loops
-Work leading to a publication
+Developed a live abstract debugger in OCaml for EVA, Frama-C's abstract interpretation plugin, to prove the absence of runtime errors.
+Researched partial orders and iteration strategies for control-flow graphs to compute fixpoints over independent loops.
+Work leading to a publication.
 
 **Metabug** — Montpellier, France | Jan 2024 – Feb 2024
 *Software Intern*
@@ -45,7 +45,7 @@ Implemented advanced mutation heuristics to increase fuzzing coverage
 
 **Ecole Sport Entreprendre** | 2024 – 2025
 *Mathematics Tutor*
-Provided mathematics support to high school students in small groups twice a week
+Provided mathematics support to high school students in small groups twice a week.
 
 ---
 
@@ -69,6 +69,6 @@ Developed an industrial tool for a company to compute optimal metal bar cut patt
 
 **Languages:** English (native), French (native), German (intermediate)
 **Programming Languages:** OCaml, Python, Rust, System Verilog, C, Assembly
-**Computer Science Topics:** Algorithms & Data Structures, Formal Methods, Automated Theorem Proving (Coq, Why3)
+**Computer Science Topics:** Algorithms & Data Structures, Formal Methods, Automated Theorem Proving
 **Technical Hobbies:** Bug Bounty, Competitive Programming
 **Sports:** Rock Climbing, Running, Mountaineering
