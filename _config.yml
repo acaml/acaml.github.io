@@ -6,6 +6,7 @@ url: "https://acaml.github.io"
 header_pages:
   - index.md
   - cv.md
+  - blog.md
   - contact.md
 
 style: light
